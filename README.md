@@ -1,3 +1,5 @@
-AI Speech-to-Text & Text Analysis
+AI Speech-to-Text and Text Analysis
 
-An AI-powered Streamlit application that converts speech into text using OpenAI Whisper, analyzes the transcription with NLP techniques (sentiment, polarity, subjectivity, and keywords), and generates intelligent summaries using DistilBART. Supports microphone recording, audio file uploads, multiple languages, and downloadable results.
+An AI-powered application that converts speech into text using OpenAI Whisper. The application analyzes the transcribed text to identify sentiment, polarity, subjectivity, word count, sentence count, and important keywords.
+
+It also uses the DistilBART model to generate AI-based summaries of the transcribed content. Users can record audio through a microphone or upload audio files and download the generated transcription and summary.
